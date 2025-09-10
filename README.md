@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, World! 👋
 
-<!--
-**Chrophopper/Chrophopper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+im just ordinary random sh!t gut
 
-Here are some ideas to get you started:
+## Main Interests
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Machine Learning (ML)
+I enjoy the process of building models that can learn from data and make predictions or decisions. I am interested in various algorithms, from simple linear regression to more sophisticated models like Random Forest and XGBoost.
+
+### 🧠 Neural Networks (NN)
+Neural networks are one of my favorite topics. I am fascinated by how these structures, inspired by the human brain, can be used to solve problems such as image recognition and natural language processing.
+
+### 🔥 Deep Learning (DL)
+As a sub-field of Machine Learning, Deep Learning opens doors to new possibilities. I am currently studying architectures such as Convolutional Neural Networks (CNN) and Recurrent Neural Networks (RNN) to process more complex data.
+
+---
+
+**Thank you for visiting!** 🚀
